@@ -57,3 +57,7 @@ A simple full-stack web application that allows buyers to browse vegetables/frui
     cd backend
     npm install
     node server.js
+
+  ## 📸 Screenshots
+
+
