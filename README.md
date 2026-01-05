@@ -47,4 +47,13 @@ A simple full-stack web application that allows buyers to browse vegetables/frui
 - See buyer name, product, quantity, address, and status
 - Update order status from **Pending → Delivered**
 - Admin access is available via a separate route (no authentication required)
+  
+**Frontend Setup**
+    cd frontend
+    npm install
+    npm start
 
+ **Backend Setup**
+    cd backend
+    npm install
+    node server.js
